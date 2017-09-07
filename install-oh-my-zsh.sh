@@ -113,4 +113,5 @@ main() {
   env zsh
 }
 
+sudo apt install powerline
 main
