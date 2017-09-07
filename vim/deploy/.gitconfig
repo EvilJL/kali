@@ -1,0 +1,11 @@
+[color]
+        status = auto
+        branch = auto
+        interactive = auto
+        diff = auto
+
+[alias]
+        st = status
+        co = checkout
+        br = branch
+        l = log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr)%Creset | %C(bold)%an' --abbrev-commit --date=relative''

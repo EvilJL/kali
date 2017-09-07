@@ -1,0 +1,209 @@
+{
+  "configs": [
+    {
+      "method": "aes-256-cfb",
+      "password": "xxxxxxx",
+      "remarks": "阿里香港-游戏-1区",
+      "server": "ali.game.hk01.sscloud.date",
+      "server_port": 13019
+    },
+    {
+      "method": "aes-256-cfb",
+      "password": "xxxxxxx",
+      "remarks": "阿里CN2-香港-1区",
+      "server": "ali.hk01.sscloud.date",
+      "server_port": 13019
+    },
+    {
+      "method": "aes-256-cfb",
+      "password": "xxxxxxx",
+      "remarks": "阿里CN2-香港-2区",
+      "server": "ali.hk02.sscloud.date",
+      "server_port": 13019
+    },
+    {
+      "method": "aes-256-cfb",
+      "password": "xxxxxxx",
+      "remarks": "阿里CN2-香港-3区",
+      "server": "ali.hk03.sscloud.date",
+      "server_port": 13019
+    },
+    {
+      "method": "aes-256-cfb",
+      "password": "xxxxxxx",
+      "remarks": "微软Azure-香港-1区",
+      "server": "azure.hk01.sscloud.date",
+      "server_port": 13019
+    },
+    {
+      "method": "aes-256-cfb",
+      "password": "xxxxxxx",
+      "remarks": "微软Azure-香港-2区",
+      "server": "azure.hk02.sscloud.date",
+      "server_port": 13019
+    },
+    {
+      "method": "aes-256-cfb",
+      "password": "xxxxxxx",
+      "remarks": "微软Azure-香港-3区",
+      "server": "azure.hk03.sscloud.date",
+      "server_port": 13019
+    },
+    {
+      "method": "aes-256-cfb",
+      "password": "xxxxxxx",
+      "remarks": "微软Azure-香港-4区",
+      "server": "azure.hk04.sscloud.date",
+      "server_port": 13019
+    },
+    {
+      "method": "aes-256-cfb",
+      "password": "xxxxxxx",
+      "remarks": "移动优化--香港-1区",
+      "server": "lw.hk01.sscloud.date",
+      "server_port": 13019
+    },
+    {
+      "method": "aes-256-cfb",
+      "password": "xxxxxxx",
+      "remarks": "阿里CN2-新加坡-1区",
+      "server": "ali.sg01.sscloud.date",
+      "server_port": 13019
+    },
+    {
+      "method": "aes-256-cfb",
+      "password": "xxxxxxx",
+      "remarks": "阿里CN2-新加坡-2区",
+      "server": "ali.sg02.sscloud.date",
+      "server_port": 13019
+    },
+    {
+      "method": "aes-256-cfb",
+      "password": "xxxxxxx",
+      "remarks": "阿里CN2-新加坡-3区",
+      "server": "ali.sg03.sscloud.date",
+      "server_port": 13019
+    },
+    {
+      "method": "aes-256-cfb",
+      "password": "xxxxxxx",
+      "remarks": "微软Azure-新加坡-1区",
+      "server": "azure.sg01.sscloud.date",
+      "server_port": 13019
+    },
+    {
+      "method": "aes-256-cfb",
+      "password": "xxxxxxx",
+      "remarks": "微软Azure-新加坡-2区",
+      "server": "azure.sg02.sscloud.date",
+      "server_port": 13019
+    },
+    {
+      "method": "aes-256-cfb",
+      "password": "xxxxxxx",
+      "remarks": "日本联通优化-1区",
+      "server": "pro.jp01.sscloud.date",
+      "server_port": 13019
+    },
+    {
+      "method": "aes-256-cfb",
+      "password": "xxxxxxx",
+      "remarks": "日本联通优化-2区",
+      "server": "pro.jp02.sscloud.date",
+      "server_port": 13019
+    },
+    {
+      "method": "aes-256-cfb",
+      "password": "xxxxxxx",
+      "remarks": "阿里日本-1区",
+      "server": "ali.jp01.sscloud.date",
+      "server_port": 13019
+    },
+    {
+      "method": "aes-256-cfb",
+      "password": "xxxxxxx",
+      "remarks": "微软Azure-日本-1区",
+      "server": "azure.jp01.sscloud.date",
+      "server_port": 13019
+    },
+    {
+      "method": "aes-256-cfb",
+      "password": "xxxxxxx",
+      "remarks": "微软Azure-日本-2区",
+      "server": "azure.jp02.sscloud.date",
+      "server_port": 13019
+    },
+    {
+      "method": "aes-256-cfb",
+      "password": "xxxxxxx",
+      "remarks": "美国洛杉矶优化-1区",
+      "server": "us.la01.sscloud.date",
+      "server_port": 13019
+    },
+    {
+      "method": "aes-256-cfb",
+      "password": "xxxxxxx",
+      "remarks": "美国洛杉矶优化-2区",
+      "server": "us.la02.sscloud.date",
+      "server_port": 13019
+    },
+    {
+      "method": "aes-256-cfb",
+      "password": "xxxxxxx",
+      "remarks": "美国旧金山-1区",
+      "server": "us.sv01.sscloud.date",
+      "server_port": 13019
+    },
+    {
+      "method": "aes-256-cfb",
+      "password": "xxxxxxx",
+      "remarks": "英国伦敦-1区",
+      "server": "uk.lon01.sscloud.date",
+      "server_port": 13019
+    },
+    {
+      "method": "aes-256-cfb",
+      "password": "xxxxxxx",
+      "remarks": "奥地利维也纳CN2-1区",
+      "server": "at.vie01.sscloud.date",
+      "server_port": 13019
+    },
+    {
+      "method": "aes-256-cfb",
+      "password": "xxxxxxx",
+      "remarks": "奥地利维也纳CN2-2区",
+      "server": "at.vie02.sscloud.date",
+      "server_port": 13019
+    },
+    {
+      "method": "aes-256-cfb",
+      "password": "xxxxxxx",
+      "remarks": "俄罗斯优化-1区",
+      "server": "pro.ru01.sscloud.date",
+      "server_port": 13019
+    },
+    {
+      "method": "aes-256-cfb",
+      "password": "xxxxxxx",
+      "remarks": "俄罗斯优化-2区",
+      "server": "pro.ru02.sscloud.date",
+      "server_port": 13019
+    },
+    {
+      "method": "aes-256-cfb",
+      "password": "xxxxxxx",
+      "remarks": "微软Azure-韩国-1区",
+      "server": "azure.kr01.sscloud.date",
+      "server_port": 13019
+    },
+    {
+      "method": "aes-256-cfb",
+      "password": "xxxxxxx",
+      "remarks": "深圳BGP-1区",
+      "server": "cn.sz01.sscloud.date",
+      "server_port": 13019
+    }
+  ],
+  "localPort": 1080,
+  "shareOverLan": false
+}
