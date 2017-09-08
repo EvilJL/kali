@@ -1,0 +1,4 @@
+#!/bin/bash
+echo "logining into zhangjy@youhuiquan,please wait..."
+echo ""
+ssh zhangjy@47.93.126.121

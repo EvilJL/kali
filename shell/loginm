@@ -1,0 +1,3 @@
+#!/bin/bash
+echo "logining into my server..."
+ssh ubuntu@123.207.123.58
