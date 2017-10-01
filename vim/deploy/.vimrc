@@ -101,6 +101,7 @@ set expandtab
 set smartindent
 set foldmethod=indent
 set ruler
+set wildmenu
 set nowrap
 set laststatus=2
 set backspace=indent,eol,start
